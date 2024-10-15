@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+.nome{
+    font-family: "Ubuntu", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.btn-home{
+    
+    border-radius: 10px;
+        padding:5px 10px 5px 10px;
+        display: flex;
+        align-self: center;
+        justify-content: center;
+        font-family: "Afacad Flux", sans-serif;
+        margin: 20px;
+    }
+
+.btn-bio{
+    
+    padding:5px 10px 5px 10px;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    font-family: "Afacad Flux", sans-serif;
+    margin: 20px;
+    background-color: yellow;
+    color:rgb(27, 25, 25);
+    font-weight: bold;
+    border-radius: 10px;
+    border-color: yellow;
+}
+
+.btn-fotos{
+    border-radius: 10px;
+    padding:5px 10px 5px 10px;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    font-family: "Afacad Flux", sans-serif;
+    margin: 20px;
+}
+
+.btn-not{
+    border-radius: 10px;
+    padding:5px 10px 5px 10px;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+   
+    font-family: "Afacad Flux", sans-serif;
+    margin: 20px;
+}
+
+.botao{
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.titulo{
+    font-family: "Ubuntu", sans-serif;
+    display: flex;
+    position: relative;
+    left: 30px;
+    
+}
+
+.lista{
+    font-family: "Ubuntu", sans-serif;
+    list-style-type: none;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.paragrafo{
+    font-family: "Afacad Flux", sans-serif;
+    text-indent: 20px;
+    position: relative;
+    left: 30px;
+    
+}
+
+.bio{
+    width: 1000px;
+    
+}
+
+.f1{
+    border-radius: 20px;
+    position: relative;
+    left: 35px;
+}
+
+.filme-1{
+
+    display: inline-block;
+}
+
+.subtitulo{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 2px;
+    font-size: small;
+    color:dimgray;
+    position: relative;
+    left: 38px;
+    padding-top: none;
+}
+
+.titulo-1{
+    font-family: "Ubuntu", sans-serif;
+    display: flex;
+    position: relative;
+    left: 45px;
+}
+
+.f2{
+    border-radius: 20px;
+    height: 200px;
+    position: relative;
+    left: 50px;
+}
+
+
+
+.filme-2{
+    display: inline-block;
+ 
+    
+}
+
+.titulo-f2{
+    position: relative;
+    left: 65px;
+    font-family: "Ubuntu", sans-serif;
+    display: flex;
+
+}
+
+.subtitulo-f2{
+    position: relative;
+    left: 63px;
+    font-family: "Ubuntu", sans-serif;
+    display: flex;
+    color: dimgray;
+}
+
+.f3{
+    border-radius: 20px;
+    height: 200px;
+    position: relative;
+    left: 50px;
+}
+
+.filme-3{
+    display: inline-block;
+    width: 120px;
+    position: relative;
+    left: 16px;
+    
+}
+
+.filme-3 h3{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    
+}
+
+.titulo-f3{
+    position: relative;
+    left: 65px;
+    font-family: "Ubuntu", sans-serif;
+    display: flex;
+    
+}
+
+.subtitulo-f3{
+    position: relative;
+    left: 63px;
+    font-family: "Ubuntu", sans-serif;
+    display: flex;
+    color: dimgray;
+}
+
+img{
+    border-radius: 20px;
+}
+
+.titulo-f4{
+    font-family: "Ubuntu", sans-serif;
+    display: flex;
+    position: relative;
+    left: 12px;
+}
+
+.subtitulo-f4{
+    font-family: "Ubuntu", sans-serif;
+    display: flex;
+    color: dimgray;
+    position: relative;
+    left: 15px;
+}
+
+.filme-4 h3{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.filme-4{
+    display: inline-block;
+    width: 120px;
+    position: relative;
+    left: 116px;
+}
